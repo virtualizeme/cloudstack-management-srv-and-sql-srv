@@ -1,2 +1,2 @@
-# apache_cloudstack
-instalacja Apache CloudStack oraz wdrożenie chmury na podkładzie Vmware vSphere
+# apache_cloudstack_installer - Ubuntu 22.0.4
+Skrypt bash do instalacji Cloudstack Management Server na Ubuntu 22.0.4
