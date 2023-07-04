@@ -1,2 +1,37 @@
-# apache_cloudstack_installer - Ubuntu 22.0.4
-Skrypt bash do instalacji Cloudstack Management Server na Ubuntu 22.0.4
+# Apache Cloudstack Management Server installer
+
+Skrypt bash do instalacji Apache Cloudstack. Testowane na Ubuntu Server 22.0.4
+Skrypt wykonuje szereg koment w CLI w celu szybkiej pomocy i wsparcia do instalacji kontrolera zarządzania infrastrukturą chmury Cloudstack.
+
+
+## Użycie
+
+* Pobierz plik `cloudstack-installer-ubuntu.sh` z repozytorium
+
+```bash
+  wget https://github.com/virtualizeme/apache_cloudstack/blob/main/cloudstack-installer-ubuntu.sh
+```
+
+* nadaj uprawnienia do wykonywania dla skryptu
+
+```bash
+  chmod +x cloudstack-installer-ubuntu.sh
+
+```
+
+
+* Możesz uruchomić skrypt używając `sudo` jako zwykly user z uprawnieniami lub jako root
+
+```bash
+  sudo ./cloudstack-installer-ubuntu.sh
+```
+lub
+```bash
+  ./cloudstack-installer-ubuntu.sh
+```
+## Roadmap
+
+- Podzielenie skryptu na grupy wykonywania poprzez `menu` wyboru
+
+- Możliwość jednorazowej instalacji Cloudstack oraz serwera NFS lokalnie lub zdalnie na wskazanym przez użytkownika serwerze
+- Możliwość podania jednorazowo parametrów swojego środowiska vCenter w celu jednoczesnego spięcia środowiska wirtualizacji do Cloudstack 
