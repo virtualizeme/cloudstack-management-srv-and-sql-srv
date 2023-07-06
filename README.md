@@ -34,4 +34,4 @@ lub
 - Podzielenie skryptu na grupy wykonywania poprzez `menu` wyboru
 
 - Możliwość jednorazowej instalacji Cloudstack oraz serwera NFS lokalnie lub zdalnie na wskazanym przez użytkownika serwerze
-- Możliwość podania jednorazowo parametrów swojego środowiska vCenter w celu jednoczesnego spięcia środowiska wirtualizacji do Cloudstack 
+- Możliwość podania jednorazowo parametrów swojego środowiska vCenter i poprzez Cloudmonkey CLI do Cloudstack 
