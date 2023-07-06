@@ -1,7 +1,7 @@
 # Apache Cloudstack Management Server installer
 
 Skrypt bash do instalacji Apache Cloudstack. Testowane na Ubuntu Server 22.0.4
-Skrypt wykonuje szereg koment w CLI w celu szybkiej pomocy i wsparcia do instalacji kontrolera zarządzania infrastrukturą chmury Cloudstack.
+Skrypt wykonuje polecenia w CLI w celu szybkiej pomocy i wsparcia do instalacji kontrolera zarządzania infrastrukturą chmury Cloudstack.
 
 
 ## Użycie
