@@ -28,4 +28,4 @@ service nfs-kernel-server restart
 
 🔗 **Find me elsewhere**
 - [GitHub](https://github.com/virtualizeme)
-- [YouTube](https://www.youtube.com/virtualizeme)
+- [YouTube](https://www.youtube.com/@virtualizeMe)
