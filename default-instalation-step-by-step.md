@@ -1,1 +1,0 @@
-instalacja krok po kroku
