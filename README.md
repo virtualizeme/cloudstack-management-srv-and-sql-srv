@@ -6,6 +6,7 @@ Skrypt bash do instalacji Apache Cloudstack. Testowane na Ubuntu Server 22.0.4
 Skrypt wykonuje polecenia w CLI w celu szybkiej pomocy i wsparcia do instalacji kontrolera zarządzania infrastrukturą chmury Cloudstack.
 
 ## Spis treści
+* [Instalacja Apache Cloudstack Mgmt Server - step by step]
 * [Instalacja NFS Server - na potrzeby secondary storage dla Apache Cloudstack](https://github.com/virtualizeme/auto-install-script-cloudstack-management-srv/blob/main/nfs-server-secondary-storage-install.md)
 
 ## Użycie
