@@ -96,3 +96,9 @@ tail -f /var/log/cloudstack/management/management-server.log
 ### `http://192.168.1.10(i.e. twojego interfejsu mgmt):8080/client`
 ### domyslne kredki: login `admin` pass `password`
 
+
+
+🔗 **Find me elsewhere**
+- [GitHub](https://github.com/virtualizeme)
+- [YouTube](https://www.youtube.com/@virtualizeMe)
+
