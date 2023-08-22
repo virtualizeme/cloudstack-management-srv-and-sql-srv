@@ -37,7 +37,7 @@ netplan apply
 reboot
 ```
 
-### instalcja Apache mgmt server z lokalnym serwerm mySQL
+### instalacja Apache mgmt server z lokalnym serwerm mySQL
 
 - dodajemy source liste oraz zbior kluczy `apt` w celu potwierdzenia autentycznosci zrodla pobierania paczek do instalacji
 ```
