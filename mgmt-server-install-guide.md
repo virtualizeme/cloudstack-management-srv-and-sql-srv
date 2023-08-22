@@ -93,6 +93,6 @@ systemctl status cloudstack-management
 tail -f /var/log/cloudstack/management/management-server.log
 ```
 ### Twoja pierwsza chmura zostala uruchomiona pod adresem IP twojego Cloudstack MGMT Serwera
-### `http://192.168.1.10(i.e. the cloudbr0-IP):8080/client`
+### `http://192.168.1.10(i.e. twojego interfejsu mgmt):8080/client`
 ### domyslne kredki: login `admin` pass `password`
 
