@@ -46,7 +46,7 @@ exit;
 
 ## Podlaczenie Apache Cloudstack Managament Server do osobnego mySQL server
 ```
-cloudstack-setup-databases cloud:cloud@cs-mgmt --deploy-as=cloud:<haslo wprowadzone przy tworzenia usera bazy> -i <adres ip serwera mgmt>
+cloudstack-setup-databases cloud:cloud@sql-cs --deploy-as=cloud:<haslo wprowadzone przy tworzenia usera bazy> -i <adres ip serwera mgmt>
 ```
 - uruchamianie Apache Cloudstack Management Server
 ```
