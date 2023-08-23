@@ -62,6 +62,8 @@ apt-get install cloudstack-usage
 ```
 
 #### podstawowa konfiguracja serwera mySQL pod Management Server
+- jezeli chcemy zainstalowac samodzielny serwer SQL i podlaczyc go z Cloudstack Managament Server - instrukcja znajduje sie w linku
+* [Instalacja samodzielnego serwera SQL dla Apache Cloudstack Mgmt Server - step by step](https://github.com/virtualizeme/cloudstack-management-srv/blob/main/sql-standalone-server-install-guide.md)
 
 - przechodzimy do edycji pliku konfiguracyjnego bazy SQL `/etc/mysql/mysql.conf.d/mysqld.cnf` pod linia zawierajaca wpis `[mysqld]` dodajemy ponizsze ustawienia
 ```
