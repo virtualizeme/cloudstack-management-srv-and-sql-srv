@@ -1,4 +1,4 @@
-# Auto install script and Guide to install Apache Cloudstack Management Server - Ubuntu Server 22.0.4
+# Auto install script and Guide to install Apache Cloudstack Management Server on Ubuntu Server 22.0.4
 
 ![Logo](https://github.com/virtualizeme/auto-install-script-cloudstack-management-srv/blob/main/small-scale-deployment.webp)
 
